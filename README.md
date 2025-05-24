@@ -1,4 +1,4 @@
-# Home-Loan-Default-Prediction.(Deep Learning Project)
+# Home Loan Default Prediction (Deep Learning Project)
 
 
 
